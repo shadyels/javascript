@@ -22,4 +22,4 @@ document.getElementById("addition").innerHTML = "The sum of "+num1+" and "+ num2
 document.getElementById("subtraction").innerHTML = "The difference of "+num1+" and "+ num2 + " is "+ sub;
 document.getElementById("multiplication").innerHTML = "The product of "+num1+" and "+ num2 + " is "+ mul;
 document.getElementById("division").innerHTML = "The quotient of "+num1+" and "+ num2 + " is "+ dov;
-document.getElementById("modulus").innerHTML = "The sum of "+num1+" and "+ num2 + " is "+ mod;
+document.getElementById("modulus").innerHTML = "The modulus of "+num1+" and "+ num2 + " is "+ mod;
